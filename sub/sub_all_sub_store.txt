@@ -1,44 +1,48 @@
 -- play_list --
 
 
+http://38.54.50.246:10002/
 https://ninjasub.com/link/9noSSheK3HL0mSCW?clash=1
-https://update.glados-config.com/clash/123196/0e367dc/79789/glados.yaml
 https://login.yfjc.xyz/api/v1/client/subscribe?token=9232d2cd72cc7d74ec40e050026591ef
 https://sub.femboy.us.ci/?url=freenodes
 https://sub.femboy.us.ci/?url=freenodes#tg#tg://webproxy?server=tg.noos.eu.cc&amp;secret=80664137832346567966628550109410
+http://sub.158361.xyz/
 https://11kk.netlify.app/.netlify/functions/sub?id=1#1kk.netlify.app
+https://lovehk.xyz/s/7885931dc38656cfef5bb9c66f30b819
 https://knjc.cfd/api/v1/client/subscribe?token=136a9b549bc24d8f2a68fb9bd3b893e4
 https://srfux4zuwq.qinyues4.cc/5ef430af5b56abc014330269fd045864
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
 https://ymjc.cfd/api/v1/client/subscribe?token=c059e92bab1fbb45334f987a38dd2772
 https://97893-2-34-333-9-ioikkd.xswl-fff.com/xswl96njd83jd83/3f4ee53bff3049abe057169b4251c3c3#
 https://97893-2-34-333-9-ioikkd.xswl-fff.com/xswl96njd83jd83/3f4ee53bff3049abe057169b4251c3c3#%E7%84%A1%E7%A2%BCAVToday.io
+https://lovehk.xyz/s/af02f064ca5e3799d2fa74d26bdca388
 https://jsjc.cfd/api/v1/client/subscribe?token=06a911477d3b0db499f510c7e72d4840
 https://api.valconfig.com/sub/?access_key=2e7ecfe5bc1d8a0bbc4366b3d699829e
+https://s1.byte16.com/api/v1/client/subscribe?token=45dc0e394fab30558f6b9363e1d1177b
 https://mianfei-73q.pages.dev/sub?token=4b4c92ad1efc1da29b9875eda9f90caa
-https://ldgb.pages.dev/sub?token=5238141bc3daa773b225209767b9fb2c
 https://btxst.eu.cc/sub?token=1fb3e82d731ba1493627e9ad7a53e49b
+https://ldgb.pages.dev/sub?token=5238141bc3daa773b225209767b9fb2c
 https://dash.knjc.cfd/api/v1/client/subscribe?token=afd495d63543e853e8c4ef408b5f5b5c
 http://store.mmins.top/api/v3/client/018d74e5e972a6d4a616f906fc8ca5f2
-https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=3
-https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=3#
-https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=3#@yuzhenb888#
-https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=3vpn.yuzhe.cc.cd
-https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=3vpn.yuzhe.cc.cd#
-https://dash.djjc.cfd/api/v1/client/subscribe?token=c1c0bd4752d4ea34e82064a8469ce72f
-https://7m8tk.no-mad-world.club/link/YHTw7AZifDT4Jeqc?clash=3
+https://ys.jiedianxielou.workers.dev:443
 https://pcq7y.no-mad-world.club/link/Lnhw8YmdYo7on5BF?clash=3
+https://dash.djjc.cfd/api/v1/client/subscribe?token=c1c0bd4752d4ea34e82064a8469ce72f
 https://liangxin.xyz/api/v1/liangxin?OwO=99707f054d8fb6a3d7aba96d5a03f7ca
 https://app.nextvpn.xyz/api/sub/8d8a8543312c9b11b32d169869fa84221a42184a
 https://app.nextvpn.xyz/api/sub/b265ff5d5172a25b2f6eadbfac154e4991006054
-https://liangxin.xyz/api/v1/liangxin?OwO=295e2075390738adaa075a1eac3df0eb
-https://ys.jiedianxielou.workers.dev:443
 http://clash.liudonghoe.com:8080
+https://clash.liudonghoe.com/
 http://clash.liudonghoe.com:8080#https://snni.868001.xyz/a0337ead-44b0-42f1-981d-9f4876d85a3f
 https://clash.liudonghoe.com
 https://clash.liudonghoe.com:8443
 https://yfjc.xyz/api/v1/client/subscribe?token=f9e708c3557447c67ac9a09541032cc9
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
 https://liangxin.xyz/api/v1/liangxin?OwO=761855015f6fbaa6628fa76967e84fd8#%E8%89%AF%E5%BF%83%E4%BA%91
+https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=3vpn.yuzhe.cc.cd
+https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=3
+https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=3#
+https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=3#@yuzhenb888#
+https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=3vpn.yuzhe.cc.cd#
+https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=TG_proxyshareCN
 https://xship.top/v1/subscribe?starlink=qQF1plCfdKF6qPJbFAewdTOa
 https://xship.2fa.cat/v1/subscribe?starlink=aZ1814paAe56zSCvyL0_Ol23
 https://xship.2fa.cat/v1/subscribe?starlink=kcrJFGG_1j8a0tWbVtUL2rIc
@@ -61,7 +65,6 @@ http://night.kindalune.com
 http://qa.emorika.com
 https://s4.laoda666.com/s/33fa99fe725f652e94474d97e7fcde9f
 https://s4.laoda666.com/s/33fa99fe725f652e94474d97e7fcde9f#
-https://www.xn--kivt58h.lol/s/a55ca516c9ef4234ab53e384e69a2456
 
 
 -- sub_list --
@@ -116,6 +119,7 @@ http://qa.emorika.com
 http://sdfdfgdhsghf.hne4vh.site/api/v1/client/subscribe?token=673a92369282011e64bcd574850b8586
 http://shiyuanyinian.xyz/api/v1/client/subscribe?token=f64ab6f1d58f1120064b61da41e84f47
 http://store.mmins.top/api/v3/client/018d74e5e972a6d4a616f906fc8ca5f2
+http://sub.158361.xyz/
 http://sub.966888.xyz/api/v1/client/subscribe?token=f1272890ba600633b6e0ef8c609cada6
 http://sub.crosswall.org/s/16ddda866fb0484f9b7b74982b8130c0
 http://sub.crosswall.org/s/18caa3e59e6a7a0e3c42a5a817b1b05a
@@ -186,6 +190,7 @@ https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=3#
 https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=3#@yuzhenb888#
 https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=3vpn.yuzhe.cc.cd
 https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=3vpn.yuzhe.cc.cd#
+https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=TG_proxyshareCN
 https://411611.xyz/411611/1368c04beca0f90c1f34e6e2dea21289
 https://411611.xyz/411611/d9cae9d3b4d90766b3137c44cca0d1b1
 https://45.137.181.197/api/v1/client/subscribe?token=57141b33b664412b3254cd69853edc57
@@ -269,6 +274,7 @@ https://cf-workers-sub-9s8.pages.dev/CSDN
 https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
 https://chuanyun-endpoint.cc/s/aa808d72d252c9eacab5699345e89aa7
 https://clash.liudonghoe.com
+https://clash.liudonghoe.com/
 https://clash.liudonghoe.com:8443
 https://clck.ru/3MjhBu
 https://d7b12d59-21aa-9561-087f-89c834ac7fe8.372372.xyz/api/v1/client/subscribe?token=1d73eb21795d2cf86595b7f9161f266f
@@ -469,6 +475,8 @@ https://login.yfjc.xyz/api/v1/client/subscribe?token=c26750864f94b0a3b51475c150e
 https://love.lulu.autos/lulu/2f10301db304ab957390107ab7a9a8d8
 https://love.lulu.autos/lulu/4dcbbe9e5ef7d4ff58284c5f16789e7a
 https://love.lulu.autos/lulu/f1a7ef8921564bca43caaaafd87beb07
+https://lovehk.xyz/s/7885931dc38656cfef5bb9c66f30b819
+https://lovehk.xyz/s/af02f064ca5e3799d2fa74d26bdca388
 https://luosiqimeng.freegangkou.top/freegangkou/cafd780a9b5342aa69119121ff8142c6
 https://ly.ba000.cc/s/d194066d5d4e228a21aa7257554a69e9
 https://m1564f3c46-a084-46fa-b4af-3224a41e7485.131.pp.ua/vE7t63MjJ6TcnSfkPTIxqoFd/973fe5b0-9628-4262-b976-65000737b94f/
